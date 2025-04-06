@@ -20,7 +20,6 @@ kinds:
     - label: BUG FIXES
     - label: NOTES
     - label: UPGRADE NOTES
-    - label: BREAKING CHANGES
 newlines:
     afterChangelogHeader: 0
     beforeKind: 1
